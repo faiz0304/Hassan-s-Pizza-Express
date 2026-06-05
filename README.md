@@ -4,11 +4,11 @@ An educational browser game that teaches basic programming logic, math, and lett
 
 ## How to Play
 
-Open **`pizza_menu.html`** in any web browser. No server or installation required.
+Open **`index.html`** in any web browser. No server or installation required.
 
 ### Game Flow
 
-1. **Main Menu** (`pizza_menu.html`) — Click PLAY to start a delivery.
+1. **Main Menu** (`index.html`) — Click PLAY to start a delivery.
 2. **Level 1** (`level_1.html`) — Navigate a 4×4 grid by building a sequence of up to 5 directional commands (UP, DOWN, LEFT, RIGHT). Press GO! to execute. Reach the school to earn coins!
 3. **Toll Booth** (`toll_booth.html`) — Answer a math or letter-matching question to raise the barrier and continue.
 4. **Garage** (`garage.html`) — Spend coins on new vehicles (School Bus, Double-Decker Bus) with different capacities and speeds.
@@ -24,7 +24,7 @@ Open **`pizza_menu.html`** in any web browser. No server or installation require
 ## Project Structure
 
 ```
-├── pizza_menu.html          — Main menu / hub
+├── index.html          — Main menu / hub
 ├── level_1.html             — Core grid-programming gameplay
 ├── toll_booth.html          — Educational puzzle checkpoint
 ├── garage.html              — Vehicle upgrade shop
